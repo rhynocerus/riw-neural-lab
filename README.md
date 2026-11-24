@@ -36,16 +36,16 @@ En una ejecución compartida el 12 de noviembre de 2026, con semilla 42, las pre
 - [Guía didáctica](docs/guia-didactica.md)
 - [Resultados y procedencia](docs/resultados-v0.1.md)
 
-## Licencias
-
-Código: **GPL-3.0-only** (véase `LICENSE`, que debe incorporarse con el texto oficial íntegro antes de publicar). Documentación: **CC BY-SA 4.0**, sujeta a incluir aviso y enlace oficial. El logotipo RIW es una identidad institucional aportada por su titular y **no se incluye en esas licencias generales**. No se autoriza su reutilización independiente por el hecho de figurar aquí.
-
-**Estado:** paquete de preparación; no publicado aún en GitHub.
-
 
 ## Visualización
 
 Ejecutar `.venv/bin/python visualizar.py` para observar la curva del error y las cuatro salidas XOR. Se genera `assets/aprendizaje_xor.png`.
+
+## Publicación y estado
+
+Experimento Python y experiencia web interactiva v0.2.5 publicados en este repositorio. La experiencia se encuentra en `docs/` y fue preparada para GitHub Pages: https://rhynocerus.github.io/riw-neural-lab/ . La disponibilidad actual de Pages debe verificarse independientemente.
+
+- [Informe de cierre y verificación](docs/CIERRE-2026-11-24.md)
 
 ## Licencias
 
